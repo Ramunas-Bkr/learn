@@ -40,6 +40,5 @@ class Hw_10_22 {
         System.out.println("Pirmasis masyvas: " + Arrays.toString(massA));
         System.out.println("Antrasis masyvas: " + Arrays.toString(massB));
         System.out.println("Sujungti masyvai: " + Arrays.toString(massA_B));
-
     }
 }
