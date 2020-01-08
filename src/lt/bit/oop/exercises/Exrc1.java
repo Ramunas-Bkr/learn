@@ -13,5 +13,8 @@ public class Exrc1 {
     }
 
         System.out.println(Arrays.toString(intArr));
+//        static int [] doubling (int[] arr){
+//            Arrays.stream(arr).map(i -> i * 2).toArray();
+//        }
 }
 }

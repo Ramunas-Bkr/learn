@@ -8,6 +8,7 @@ public class Tree {
     public Tree(int age, String name) {
         this.age = age;
         this.name = name;
+        System.out.println("age = " + age + ", name = " + name);
     }
 
     public Tree(int age, boolean live, String name) {
